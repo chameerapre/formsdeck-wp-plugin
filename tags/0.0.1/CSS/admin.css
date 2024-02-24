@@ -1,0 +1,95 @@
+/* admin.css */
+#adminmenu .toplevel_page_formsdeck-settings img {
+    width: 16px;
+}
+
+.fd-settings-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.fd-header {
+    padding: 15px 0;
+}
+
+.fd-logo {
+    width: 200px;
+}
+
+.fd-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fd-create-form {
+    border: 1px solid #1ea952;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.left-panel {
+    width: 70%;
+    margin-right: 10px;
+    background: white;
+    padding: 20px;
+    border: 1px solid #1ea952;
+    border-radius: 10px;
+}
+
+.right-panel {
+    width: 30%;
+}
+
+.right-panel h3 {
+    margin-top: 0;
+}
+
+.fd-feedback {
+    background: white;
+    padding: 20px;
+    border: 1px solid #1ea952;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.fd-follow {
+    background: white;
+    padding: 20px;
+    border: 1px solid #1ea952;
+    border-radius: 10px;
+}
+
+.fd-btn {
+    background-color: #1ea9524D;
+    padding: 8px;
+    color: #1ea952;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    .fd-header {
+        padding: 15px 0 0 0;
+    }
+
+    .fd-content {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .left-panel {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .right-panel {
+        width: 100%;
+    }
+
+    .fd-feedback {
+        margin-bottom: 20px;
+    }
+  }
