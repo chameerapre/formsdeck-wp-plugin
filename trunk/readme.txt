@@ -1,6 +1,6 @@
 === FormsDeck ===
 Contributors: Origyn
-Tags: whatsapp, whatsapp chat, whatsapp business, whatsapp support, whatsapp button, whatsapp form, whatsapp wordpress, whatsapp widget
+Tags: whatsapp, whatsapp chat, whatsapp business, whatsapp support, whatsapp button
 Requires at least: 4.5.0
 Requires PHP: 5.5
 Tested up to: 6.4
@@ -54,5 +54,11 @@ We do not collect user data from your website and do not store cookies.
 3. Plugin settings page
 
 == Changelog ==
+
 = 0.0.1 =
 * Plugin released.
+
+== Upgrade Notice ==
+
+= 0.0.1 =
+0.0.1 is the initial version.
