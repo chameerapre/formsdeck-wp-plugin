@@ -14,7 +14,6 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-
 // Define plugin directory URL
 define('FORMSDECK_DIR_URL', plugin_dir_url(__FILE__));
 
@@ -70,13 +69,13 @@ function formsdeck_settings_page() {
                 <div class="fd-feedback">
                     <h3>Show us some love :)</h3>
                     <p>Found FormsDeck useful? Rate it and leave a nice little comment at wordpress.org. We would appreciate that.</p>
-                    <button class="fd-btn">Rate us</button>
+                    <a href="https://wordpress.org/support/plugin/formsdeck/reviews/#new-post" target="_blank"><button class="fd-btn">Rate us</button></a>
                 </div>
 
                 <div class="fd-follow">
                     <h3>Let's be friends 🤝</h3>
-                    <button class="fd-btn">Subscribe on YouTube</button>
-                    <a href="https://twitter.com/FormsDeckHQ"><button class="fd-btn">Follow us on X</button></a>
+                    <a href="https://www.youtube.com/@OrigynCompany" target="_blank"><button class="fd-btn">Subscribe on YouTube</button></a>
+                    <a href="https://twitter.com/FormsDeckHQ" target="_blank"><button class="fd-btn">Follow us on X</button></a>
                 </div>
             </div>
         </div>
