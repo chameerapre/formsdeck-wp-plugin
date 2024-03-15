@@ -5,7 +5,7 @@
  * Version: 0.0.1
  * Plugin URI: https://formsdeck.com/
  * Description: Get form responses from the customer's WhatsApp number to yours.
- * Author: Origyn.Company
+ * Author: Origyn
  * Author URI: https://origyn.company/
  * License: GPLv2 or later
  */
